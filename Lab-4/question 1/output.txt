@@ -1,0 +1,2 @@
+ Number of inversions are (by brute force)25162694
+ Number of inversions are (by optimal way)25162694
